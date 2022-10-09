@@ -1,0 +1,27 @@
+body{
+  margin:0;
+  background-color:#DFF6FF;
+}
+
+.picture{
+  height:250px;
+  width:200px;
+  position:relative;
+}
+.intro{
+  position:absolute;
+  left:200px;
+  top:120px;
+  right:0;
+  height:100px;
+}
+.past{
+  height:280px;
+  width:100%;
+}
+.present{
+  height:90px;
+  width:100%;
+  position:relative;
+  bottom:18px;
+}
